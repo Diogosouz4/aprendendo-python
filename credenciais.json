@@ -1,0 +1,13 @@
+{
+    "credenciais": [
+        {
+            "usuario": "diogo",
+            "senha": "a0539f59d370f15ea8cc0f0062942888df62d28cb9ccc3975064a57cb87312e4"
+        },
+        {
+            "usuario": "retruca",
+            "nome_completo": "Diogo Souza dos Santos",
+            "senha_hash": "a0539f59d370f15ea8cc0f0062942888df62d28cb9ccc3975064a57cb87312e4"
+        }
+    ]
+}

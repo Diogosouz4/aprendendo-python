@@ -1,6 +1,5 @@
 palavra_correta = "sair"
 
-# Loop para pedir a senha até que o usuário acerte
 while True:
     senha = input("Escreva a palavra chave:\n")    
     if senha == palavra_correta:
